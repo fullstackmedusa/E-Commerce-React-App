@@ -43,34 +43,34 @@ export const sliderItems = [
   export const popularProducts = [
     {
       id:1,
-      img:"https://doglifeworld.com/wp-content/uploads/2020/01/Barksbar-snuggly-sleeper.jpg",
+      img:"https://i.imgur.com/KWrcSsI.png",
     },
     {
       id:2,
-      img:"https://m.media-amazon.com/images/I/8199hsVcgHL._AC_UL640_QL65_.jpg",
+      img:"https://i.imgur.com/23LWWqC.png",
     },
     {
       id:3,
-      img:"https://m.media-amazon.com/images/I/71vh1yq8BVL._AC_UL640_QL65_.jpg",
+      img:"https://i.imgur.com/PoqYOm5.png",
     },
     {
       id:4,
-      img:"https://m.media-amazon.com/images/I/71w0lKgfDbL._AC_SX679_.jpg",
+      img:"https://i.imgur.com/VTyOvqp.png",
     },
     {
       id:5,
-      img:"https://m.media-amazon.com/images/I/81nioDdJVAL._AC_UL640_FMwebp_QL65_.jpg",
+      img:"https://i.imgur.com/Pn9fBsZ.png",
     },
     {
       id:6,
-      img:"https://m.media-amazon.com/images/I/61POYFiuoLL._AC_SX679_.jpg",
+      img:"https://i.imgur.com/bEF0LBG.png",
     },
     {
       id:7,
-      img:"https://m.media-amazon.com/images/I/71P8i5jTZ9L._AC_SX679_.jpg",
+      img:"https://i.imgur.com/AlokH5X.png",
     },
     {
       id:8,
-      img:"https://m.media-amazon.com/images/I/815X9Vp4lVL._AC_UL640_QL65_.jpg",
+      img:"https://i.imgur.com/ie3TNor.png",
     },
   ]
