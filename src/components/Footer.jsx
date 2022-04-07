@@ -17,7 +17,9 @@ const Right = styled.div`
 const Footer = () => {
   return (
     <Container>
-        <Left> </Left>
+        <Left> 
+          
+        </Left>
     </Container>
   )
 }
